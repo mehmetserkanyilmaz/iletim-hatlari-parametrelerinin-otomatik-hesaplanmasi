@@ -1,0 +1,1 @@
+# iletim-hatlari-parametrelerinin-otomatik-hesaplanmasi
